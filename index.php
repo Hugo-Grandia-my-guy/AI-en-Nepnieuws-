@@ -13,7 +13,7 @@
 </div>
 
 <a id = "tekst_article">
-    <p></p>
+    <p>tekst</p>
 </a>
 <a id = "ai_article">
     <p></p>
