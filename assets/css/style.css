@@ -45,6 +45,12 @@ a:hover
     color: #fff;
     padding: 10px 20px;
     display: inline-block;
+    position: relative;
+    margin: 0 auto;
+        text-align: center;
+        padding-left: 9.65%;
+        padding-right: 9.65%;
+        text-decoration: none;
 }
 .navbar a:hover
 {

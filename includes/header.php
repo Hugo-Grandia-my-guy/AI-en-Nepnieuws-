@@ -9,4 +9,12 @@
     <title></title>
 </head>
 <body>
+    <div class="container">
+
+    <nav class="navbar">
+      <a href="#">*Home*</a>
+      <a href="#">*AI*</a>
+      <a href="#">*Photo & Video*</a>
+      <a href="#">*Tekst*</a>
+    </nav>
 

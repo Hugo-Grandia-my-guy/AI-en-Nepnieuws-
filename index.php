@@ -1,6 +1,5 @@
 <?php require "includes/header.php"; ?>
 
-<div class="navbar"></div>
 
 <div class="introduction">
     <h1>Welkom!!!</h1>
