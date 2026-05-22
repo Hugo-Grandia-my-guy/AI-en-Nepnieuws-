@@ -1,26 +1,19 @@
-<?php require "includes/header.php"; ?>
+<?php
+include('includes/header.php');
 
+$page = isset($_GET['page']) ? $_GET['page'] : 'home';
+$page = basename($page); // Безопасность
 
-<div class="introduction">
-    <h1>Welkom!!!</h1>
-    <p>
-        <span>Lorem ipsum dolor sit amet, consectetur et oditia nemo nihil nulla numquam porro praesentium quia quos sunt ullam voluptates!</span>
-       <span>Accusantium laborum odit totam. Animi eligepre praesentium ratione sapiente tempora totam voluptate. Assumenda, rem?</span>
-        <span>Lorem ipsum dolor sit amet, consectetur et oditia nemo nihil nulla numquam porro praesentium quia quos sunt ullam voluptates!</span>
-       <span>Accusantium laborum odit totam. Animi eligepre praesentium ratione sapiente tempora totam voluptate. Assumenda, rem?</span>
-    </p>
-</div>
+$page = str_replace('.php', '', $page);
+$file = "pages/" . $page . ".php";
 
-<a id = "tekst_article">
-    <p>tekst</p>
-</a>
-<a id = "ai_article">
-    <p></p>
-</a>
-<a id = "photo_&_video_article">
-    <p></p>
-</a>
+echo '<main class="content">';
+if (file_exists($file)) {
+    include($file);
+} else {
+    include("pages/home.php");
+}
+echo '</main>';
 
-
-
-<?php require "includes/footer.php"; ?>
+include('includes/footer.php');
+?>

@@ -1,5 +1,2 @@
-<?php require "includes/header.php"; ?>
-
-
-
-<?php require "includes/footer.php"; ?>
+<h1>AI & Algoritmen</h1>
+<p>Tekst over AI.</p>

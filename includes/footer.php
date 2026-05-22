@@ -1,4 +1,5 @@
-<footer><p id="copyright">&copy; 2026 AI & Nepnieuws Informatieplatform</p></footer>
-
-</body>
+<footer class="footer">
+    <p>&copy; 2026 AI & Nepnieuws Informatieplatform</p>
+</footer>
+</div> </body>
 </html>

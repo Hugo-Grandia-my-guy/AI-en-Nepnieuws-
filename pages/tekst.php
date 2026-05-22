@@ -1,5 +1,2 @@
-<?php require "includes/header.php"; ?>
-
-
-
-<?php require "includes/footer.php"; ?>
+<h1>Tekst & Nieuws</h1>
+<p>Tekst over tekst.</p>
