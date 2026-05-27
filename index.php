@@ -2,7 +2,7 @@
 include('includes/header.php');
 
 $page = isset($_GET['page']) ? $_GET['page'] : 'home';
-$page = basename($page); // Безопасность
+$page = basename($page);
 
 $page = str_replace('.php', '', $page);
 $file = "pages/" . $page . ".php";
