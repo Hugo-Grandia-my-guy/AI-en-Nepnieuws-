@@ -3,6 +3,7 @@ p
     font-size: 16px;
     line-height: 1.5;
     color: #337dc2;
+    font-family: arial, sans-serif;
 }
 h1, h2, h3
 {
@@ -11,12 +12,12 @@ h1, h2, h3
 }
 a
 {
-    color: #2593b8;
+    color: #531966;
     text-decoration: none;
 }
 a:hover
 {
-    color: #531966;
+    color: #ff0000;
 }
 .container
 {
@@ -81,10 +82,12 @@ a:hover
 {
     margin: 0;
     font-size: 14px;
-    color: #666;
+    color: #ffffff;
 }
 li
 {
     margin-bottom: 10px;
     color: #337dc2;
+    font-family: arial, sans-serif;
+    font-size: 14px;
 }
