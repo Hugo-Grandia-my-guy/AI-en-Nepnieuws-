@@ -43,6 +43,7 @@ a:hover
 }
 .navbar
 {
+    display: flex;
     background-color: #549ccc;
     padding: 10px 0;
 }
@@ -54,8 +55,7 @@ a:hover
     position: relative;
     margin: 0 auto;
         text-align: center;
-        padding-left: 9.65%;
-        padding-right: 9.65%;
+        flex: 1;
         text-decoration: none;
   
 }
