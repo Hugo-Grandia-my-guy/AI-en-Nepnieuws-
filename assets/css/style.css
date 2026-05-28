@@ -43,25 +43,29 @@ a:hover
 }
 .navbar
 {
+    border-radius: 5px;
     display: flex;
     background-color: #549ccc;
-    padding: 10px 0;
+    padding: 10px 10px;
+    gap: 10px;
 }
 .navbar a
 {
-    color: #fff;
+    color: rgb(255 255 255 / 0.9);
     padding: 10px 20px;
     display: inline-block;
     position: relative;
     margin: 0 auto;
-        text-align: center;
-        flex: 1;
-        text-decoration: none;
-  
+    text-align: center;
+    flex: 1;
+    text-decoration: none;
+    text-transform: uppercase;
+    border-radius: 5px;
+
 }
 .navbar a:hover
 {
-    background-color: #495057;
+    background-color: #84acd8;
 }
 .content
 {
