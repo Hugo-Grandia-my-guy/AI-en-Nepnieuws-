@@ -7,7 +7,7 @@
 <h2>Hoe kan AI worden gebruikt om nepnieuws te creëren en te verspreiden?</h2>
 <p>AI kan worden gebruikt om nepnieuws te creëren en te verspreiden op verschillende manieren</p>
 <ul>
-    <li><strong><a href="index.php?page=ai">AI</a></strong> wij gaan het hebben over AI. Op de site pagina's gaan we in detail in op de werking van AI en hoe het kan worden gebruikt in de context van nepnieuws.</li>
+    <li><strong><a href="index.php?page=ai">AI</a></strong> wij gaan het hebben over <a href="index.php?page=ai">AI</a>. Op de site pagina's gaan we in detail in op de werking van <a href="index.php?page=ai">AI</a> en hoe het kan worden gebruikt in de context van nepnieuws.</li>
     <li><strong><a href="index.php?page=photo_and_video">Photo & Video</a></strong> Wij gaan het hebben over de manier waarop <a href="index.php?page=ai">AI</a> kan worden gebruikt om foto's en video's te manipuleren en te verspreiden als nepnieuws.</li>
     <li><strong><a href="index.php?page=tekst">Tekst</a></strong> Wij gaan het hebben over de manier waarop <a href="index.php?page=ai">AI</a> kan worden gebruikt om tekst te genereren en te verspreiden als nepnieuws.</li>
 </ul>
