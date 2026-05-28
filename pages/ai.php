@@ -17,7 +17,7 @@
 </ul>
 <h3>soorten bots</h3>
 <ul>
-    <li>chatbots: Deze bots zijn ontworpen om menselijke conversaties te simuleren en kunnen worden gebruikt om nepnieuws te verspreiden of valse informatie te leveren.</li>
-    <li>generative AI: Deze systemen kunnen automatisch inhoud genereren, waaronder nepnieuws, wat de verificatie moeilijker maakt.</li>
-    <li>sociale media bots: Deze bots kunnen worden gebruikt om nepnieuws te verspreiden via sociale media platforms.</li>
+    <li><strong>chatbots:</strong> Deze bots zijn ontworpen om menselijke conversaties te simuleren en kunnen worden gebruikt om nepnieuws te verspreiden of valse informatie te leveren.</li>
+    <li><strong>generative AI:</strong> Deze systemen kunnen automatisch inhoud genereren, waaronder nepnieuws, wat de verificatie moeilijker maakt.</li>
+    <li><strong>sociale media bots:</strong> Deze bots kunnen worden gebruikt om nepnieuws te verspreiden via sociale media platforms.</li>
 </ul>
