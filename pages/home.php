@@ -1,11 +1,11 @@
-<h1>AI en Nepnieuws</h1>
-<p>Welkom op onze website we gaan het hebben over <a href="index.php?page=ai">AI</a> en Nepnieuws. We gaan het hebben over wat <a href="index.php?page=ai">AI</a> is, wat nepnieuws is en hoe <a href="index.php?page=ai">AI</a> kan worden gebruikt om nepnieuws te creëren en te verspreiden.</p>
-<h2>Wat is AI?</h2> 
+<h1><a href="index.php?page=ai">AI</a> en <a href="index.php?page=tekst">Nepnieuws</a></h1>
+<p>Welkom op onze website we gaan het hebben over <a href="index.php?page=ai">AI</a> en <a href="index.php?page=tekst">Nepnieuws</a>. We gaan het hebben over wat <a href="index.php?page=ai">AI</a> is, wat <a href="index.php?page=tekst">Nepnieuws</a> is en hoe <a href="index.php?page=ai">AI</a> kan worden gebruikt om <a href="index.php?page=tekst">Nepnieuws</a> te creëren en te verspreiden.</p>
+<h2>Wat is <a href="index.php?page=ai">AI</a>?</h2>
 <p><a href="index.php?page=ai">AI</a> staat voor Artificial Intelligence, wat in het Nederlands Kunstmatige Intelligentie betekent. Het is een tak van de informatica die zich bezighoudt met het creëren van machines en software die in staat zijn om taken uit te voeren die normaal gesproken menselijke intelligentie vereisen, zoals leren, redeneren, probleemoplossing en taalbegrip.</p>
-<h2>Wat is nepnieuws?</h2>
-<p>Nepnieuws is valse of misleidende informatie die wordt gepresenteerd als nieuws. Het kan worden verspreid via sociale media, websites, e-mails en andere digitale platforms. Nepnieuws kan verschillende vormen aannemen, zoals verzonnen verhalen, <a href="index.php?page=photo_and_video">gemanipuleerde afbeeldingen of video's</a>, en <a href="index.php?page=tekst">misleidende koppen</a>.</p>
-<h2>Hoe kan AI worden gebruikt om nepnieuws te creëren en te verspreiden?</h2>
-<p>AI kan worden gebruikt om nepnieuws te creëren en te verspreiden op verschillende manieren</p>
+<h2>Wat is <a href="index.php?page=tekst">Nepnieuws</a>?</h2>
+<p><a href="index.php?page=tekst">Nepnieuws</a> is valse of <a href="index.php?page=tekst">misleidende informatie</a> die wordt gepresenteerd als nieuws. Het kan worden verspreid via sociale media, websites, e-mails en andere digitale platforms. <a href="index.php?page=tekst">Nepnieuws</a> kan verschillende vormen aannemen, zoals verzonnen verhalen, <a href="index.php?page=photo_and_video">gemanipuleerde afbeeldingen of video's</a>, en <a href="index.php?page=tekst">misleidende koppen</a>.</p>
+<h2>Hoe kan <a href="index.php?page=ai">AI</a> worden gebruikt om <a href="index.php?page=tekst">Nepnieuws</a> te creëren en te verspreiden?</h2>
+<p><a href="index.php?page=ai">AI</a> kan worden gebruikt om <a href="index.php?page=tekst">Nepnieuws</a> te creëren en te verspreiden op verschillende manieren</p>
 <ul>
     <li><strong><a href="index.php?page=ai">AI</a></strong> wij gaan het hebben over <a href="index.php?page=ai">AI</a>. Op de site pagina's gaan we in detail in op de werking van <a href="index.php?page=ai">AI</a> en hoe het kan worden gebruikt in de context van nepnieuws.</li>
     <li><strong><a href="index.php?page=photo_and_video">Photo & Video</a></strong> wij gaan het hebben over de manier waarop <a href="index.php?page=ai">AI</a> kan worden gebruikt om foto's en video's te manipuleren en te verspreiden als nepnieuws.</li>
@@ -17,7 +17,7 @@
     <li><strong>Sociale media bots:</strong> AI-aangedreven bots kunnen worden ingezet op sociale media om nepnieuws te verspreiden, door automatisch berichten te plaatsen, te delen of te liken, waardoor de zichtbaarheid van nepnieuws wordt vergroot.</li>
     <li><strong>Targeting en personalisatie:</strong> AI kan worden gebruikt om nepnieuws te targeten op specifieke groepen mensen op basis van hun interesses, gedrag of demografische gegevens, waardoor de kans groter wordt dat ze het geloven en delen.</li>
 </ul>-->
-<p>Het is belangrijk om kritisch te blijven en informatie te verifiëren voordat je het gelooft of deelt, vooral in het tijdperk van <a href="index.php?page=ai">AI</a> en nepnieuws. Controleer altijd de bron van het nieuws, zoek naar meerdere bronnen en wees voorzichtig met het delen van informatie die je niet kunt verifiëren.</p>
+<p>Het is belangrijk om kritisch te blijven en informatie te verifiëren voordat je het gelooft of deelt, vooral in het tijdperk van <a href="index.php?page=ai">AI</a> en <a href="index.php?page=tekst">Nepnieuws</a>. Controleer altijd de bron van het nieuws, zoek naar meerdere bronnen en wees voorzichtig met het delen van informatie die je niet kunt verifiëren.</p>
 
 <div class = 'test_container'>
 <a href="index.php?page=general_test">Algemeen toets</a>
