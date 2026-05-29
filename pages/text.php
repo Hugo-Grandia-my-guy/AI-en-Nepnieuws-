@@ -1,7 +1,7 @@
 <h1>Tekst & misleidende inhoud</h1>
 <p>we gaan het hebben over de manier waarop AI kan worden gebruikt om misleidende tekst te genereren en te verspreiden als nepnieuws.</p>
 <h2>als allereeste denk maar aan automatisch gegenereerde inhoud</h2>
-<p>AI kan worden gebruikt om automatisch nepnieuwsartikelen, blogposts of social media
+<p><a href="index.php?page=ai">AI</a> kan worden gebruikt om automatisch nepnieuwsartikelen, blogposts of social media
 <ul>
     <li><strong>Automatisch gegenereerde inhoud:</strong> AI kan worden gebruikt om automatisch nepnieuwsartikelen, blogposts of social media-berichten te genereren. Deze inhoud kan er overtuigend uitzien en moeilijk te onderscheiden zijn van echte nieuwsberichten.</li>
     <li><strong>Misleidende koppen:</strong> AI kan worden gebruikt om misleidende of sensationele koppen te genereren die de aandacht trekken en mensen aanzetten tot klikken, zelfs als de inhoud van het artikel niet overeenkomt met de kop.</li>

@@ -20,6 +20,8 @@
     <li><strong>chatbots:</strong> Deze bots zijn ontworpen om menselijke conversaties te simuleren en kunnen worden gebruikt om nepnieuws te verspreiden of valse informatie te leveren.</li>
     <li><strong>generative AI:</strong> Deze systemen kunnen automatisch inhoud genereren, waaronder nepnieuws, wat de verificatie moeilijker maakt.</li>
     <li><strong>sociale media bots:</strong> Deze bots kunnen worden gebruikt om nepnieuws te verspreiden via sociale media platforms.</li>
+    <li><strong>video-generatoren</strong> Dat zijn systemen die automatisch video's kunnen genereren, waaronder <a href="index.php?page=photo_and_video">nepvideo's(deepfakes)</a>.</li>
+    <li><strong>deep learning:</strong> Deze technologie maakt het mogelijk om complexe patronen in gegevens te herkennen en te gebruiken voor het genereren van nepinhoud.</li>
 </ul>
 
 <div class = 'test_container'>
