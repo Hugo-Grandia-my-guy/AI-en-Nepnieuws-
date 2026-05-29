@@ -39,10 +39,64 @@
     </li>
 </ul>
 
-<h2>Ben je klaar voor de volgende stap?</h2>
+<h2>Denk je dat je een echte foto van een AI-creatie kunt onderscheiden?</h2>
 
-<p>Denk je dat je een echte foto van een AI-creatie kunt onderscheiden?</p>
+<div class="quiz-container">
+    <h2>Photo & Video Quiz: Echt of AI?</h2>
+    <p>Klik op de afbeelding die volgens jou **ECHT** is. Let goed op de details!</p>
 
+    <div class="quiz-question" id="q1">
+        <h3>Ronde 1: Welk huis is echt?</h3>
+        <div class="quiz-options">
+            <div class="option-card" onclick="checkAnswer(1, 'ai', this)">
+                <img src="assets/img/aihouse.png" alt="Huis 1">
+                <span class="label">Optie A</span>
+            </div>
+            <div class="option-card" onclick="checkAnswer(1, 'echt', this)">
+                <img src="assets/img/house.jpg" alt="Huis 2">
+                <span class="label">Optie B</span>
+            </div>
+        </div>
+        <div class="quiz-feedback" id="feedback-1"></div>
+    </div>
+
+    <div class="quiz-question" id="q2">
+        <h3>Ronde 2: Welke kat is echt?</h3>
+        <div class="quiz-options">
+            <div class="option-card" onclick="checkAnswer(2, 'echt', this)">
+                <img src="assets/img/cat.jpg" alt="Kat 1">
+                <span class="label">Optie A</span>
+            </div>
+            <div class="option-card" onclick="checkAnswer(2, 'ai', this)">
+                <img src="assets/img/aicat.jpg" alt="Kat 2">
+                <span class="label">Optie B</span>
+            </div>
+        </div>
+        <div class="quiz-feedback" id="feedback-2"></div>
+    </div>
+
+    <div class="quiz-question" id="q3">
+        <h3>Ronde 3: Welk gezicht is echt?</h3>
+        <div class="quiz-options">
+            <div class="option-card" onclick="checkAnswer(3, 'ai', this)">
+                <img src="assets/img/aiface.jpg" alt="Gezicht 1">
+                <span class="label">Optie A</span>
+            </div>
+            <div class="option-card" onclick="checkAnswer(3, 'echt', this)">
+                <img src="assets/img/face.jpg" alt="Gezicht 2">
+                <span class="label">Optie B</span>
+            </div>
+        </div>
+        <div class="quiz-feedback" id="feedback-3"></div>
+    </div>
+
+    <div id="quiz-score-banner" style="display: none;">
+        <hr>
+        <h3>Test Afgerond!</h3>
+        <p id="total-score-text"></p>
+    </div>
+</div>
+<script src='assets/script/script.js'></script>
 <div class = 'test_container'>
 <a href="index.php?page=photovideo_test">Foto en video toets</a>
 </div>

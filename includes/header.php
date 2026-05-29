@@ -13,4 +13,5 @@
         <a href="index.php?page=ai">AI & algoritmen</a>
         <a href="index.php?page=photo_and_video">Photo & Video</a>
         <a href="index.php?page=tekst">Tekst</a>
+        <a href="index.php?page=score">score</a>
     </nav>
