@@ -8,8 +8,8 @@
 <p>AI kan worden gebruikt om nepnieuws te creëren en te verspreiden op verschillende manieren</p>
 <ul>
     <li><strong><a href="index.php?page=ai">AI</a></strong> wij gaan het hebben over <a href="index.php?page=ai">AI</a>. Op de site pagina's gaan we in detail in op de werking van <a href="index.php?page=ai">AI</a> en hoe het kan worden gebruikt in de context van nepnieuws.</li>
-    <li><strong><a href="index.php?page=photo_and_video">Photo & Video</a></strong> Wij gaan het hebben over de manier waarop <a href="index.php?page=ai">AI</a> kan worden gebruikt om foto's en video's te manipuleren en te verspreiden als nepnieuws.</li>
-    <li><strong><a href="index.php?page=tekst">Tekst</a></strong> Wij gaan het hebben over de manier waarop <a href="index.php?page=ai">AI</a> kan worden gebruikt om tekst te genereren en te verspreiden als nepnieuws.</li>
+    <li><strong><a href="index.php?page=photo_and_video">Photo & Video</a></strong> wij gaan het hebben over de manier waarop <a href="index.php?page=ai">AI</a> kan worden gebruikt om foto's en video's te manipuleren en te verspreiden als nepnieuws.</li>
+    <li><strong><a href="index.php?page=tekst">Tekst</a></strong> wij gaan het hebben over de manier waarop <a href="index.php?page=ai">AI</a> kan worden gebruikt om tekst te genereren en te verspreiden als nepnieuws.</li>
 </ul>
 <!--<ul>
     <li><strong>Automatisch gegenereerde inhoud:</strong> AI kan worden gebruikt om automatisch nepnieuwsartikelen, blogposts of social media-berichten te genereren. Deze inhoud kan er overtuigend uitzien en moeilijk te onderscheiden zijn van echte nieuwsberichten.</li>
@@ -19,3 +19,6 @@
 </ul>-->
 <p>Het is belangrijk om kritisch te blijven en informatie te verifiëren voordat je het gelooft of deelt, vooral in het tijdperk van <a href="index.php?page=ai">AI</a> en nepnieuws. Controleer altijd de bron van het nieuws, zoek naar meerdere bronnen en wees voorzichtig met het delen van informatie die je niet kunt verifiëren.</p>
 
+<div class = 'test_container'>
+<a href="index.php?page=general_test">Algemeen toets</a>
+</div>

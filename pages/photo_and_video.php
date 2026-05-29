@@ -43,4 +43,6 @@
 
 <p>Denk je dat je een echte foto van een AI-creatie kunt onderscheiden?</p>
 
-[Ga naar de Photo & Video Test]
+<div class = 'test_container'>
+<a href="index.php?page=photovideo_test">Foto en video toets</a>
+</div>

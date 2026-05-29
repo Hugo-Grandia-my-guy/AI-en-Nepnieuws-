@@ -21,3 +21,7 @@
     <li><strong>generative AI:</strong> Deze systemen kunnen automatisch inhoud genereren, waaronder nepnieuws, wat de verificatie moeilijker maakt.</li>
     <li><strong>sociale media bots:</strong> Deze bots kunnen worden gebruikt om nepnieuws te verspreiden via sociale media platforms.</li>
 </ul>
+
+<div class = 'test_container'>
+<a href="index.php?page=ai_test">AI toets</a>
+</div>

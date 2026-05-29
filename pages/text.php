@@ -15,4 +15,9 @@
     <li><strong>Verbeterde zoekresultaten:</strong> AI kan worden gebruikt om zoekresultaten te verbeteren door relevante informatie te identificeren en te rangschikken op basis van gebruikersvoorkeuren en zoekgeschiedenis.</li>
     <li><strong>Personalisatie:</strong> AI kan worden gebruikt om inhoud te personaliseren op basis van gebruikersvoorkeuren, waardoor een meer relevante en boeiende ervaring wordt geboden.</li>
 </ul>
+
 <p>Hoewel AI veel voordelen biedt, is het belangrijk om bewust te zijn van de risico's en uitdagingen die gepaard gaan met het gebruik van AI, vooral in het tijdperk van nepnieuws en desinformatie. Het is essentieel om kritisch te blijven en informatie te verifiëren voordat je het gelooft of deelt, en om bewust te zijn van de mogelijkheid dat AI kan worden gebruikt om misleidende inhoud te genereren en te verspreiden.</p>
+
+<div class = 'test_container'>
+<a href="index.php?page=text_test">Tekst toets</a>
+</div>
