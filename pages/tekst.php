@@ -11,7 +11,7 @@
 <p>Het is ook belangrijk om bewust te zijn van de mogelijkheid dat AI kan worden gebruikt om misleidende tekst te genereren en te verspreiden, en om kritisch te blijven bij het consumeren van informatie online.</p>
 <h2>Voordelen</h2>
 <ul>
-    <li><strong>Automatische vertalingen:</strong> AI kan worden gebruikt om teksten automatisch te vertalen, waardoor informatie toegankelijker wordt voor mensen over de hele wereld.</li>
+    <li><strong>verkeerde feiten:</strong> AI kan worden gebruikt om verkeerde feiten te genereren en te verspreiden, wat leidt tot desinformatie en misleiding.</li>
     <li><strong>Verbeterde zoekresultaten:</strong> AI kan worden gebruikt om zoekresultaten te verbeteren door relevante informatie te identificeren en te rangschikken op basis van gebruikersvoorkeuren en zoekgeschiedenis.</li>
     <li><strong>Personalisatie:</strong> AI kan worden gebruikt om inhoud te personaliseren op basis van gebruikersvoorkeuren, waardoor een meer relevante en boeiende ervaring wordt geboden.</li>
 </ul>
