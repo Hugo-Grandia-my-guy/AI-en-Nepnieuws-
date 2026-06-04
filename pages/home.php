@@ -32,6 +32,6 @@
 
 <p>Het is belangrijk om kritisch te blijven en informatie te verifiëren voordat je het gelooft of deelt, vooral in het tijdperk van <a href="index.php?page=ai">AI</a> en <a href="index.php?page=tekst">Nepnieuws</a>. Controleer altijd de bron van het nieuws, zoek naar meerdere bronnen en wees voorzichtig met het delen van informatie die je niet kunt verifiëren.</p>
 
-<div class = 'test_container'>
+<div class = 'bot_button'>
 <a href="index.php?page=general_test">Algemeen toets</a>
 </div>

@@ -31,6 +31,6 @@
     en om bewust te zijn van de mogelijkheid dat <a href="index.php?page=ai">AI</a> kan worden gebruikt om misleidende inhoud te genereren en te verspreiden.
 </p>
 
-<div class = 'test_container'>
+<div class = 'bot_button'>
     <a href="index.php?page=text_test">Tekst toets</a>
 </div>

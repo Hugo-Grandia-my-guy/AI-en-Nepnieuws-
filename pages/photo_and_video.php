@@ -123,10 +123,6 @@ dit werd erg populair in de media, en zij werden vaak gebruikt voor het versprei
 
 <script src='assets/script/script.js'></script>
 
-<div class = 'test_container'>
-<a href="index.php?page=photovideo_test">Foto en video toets</a>
-</div>
-
 
 <h2>banen tervoorschijn met <a href="index.php?page=ai">AI</a> beelden?</h2>
 
@@ -136,3 +132,8 @@ dit werd erg populair in de media, en zij werden vaak gebruikt voor het versprei
     <li><strong>V-tubers:</strong> Dit zijn virtual influencers die gebruik maken van <a href="index.php?page=ai">AI</a> en animaties door gezichtsherkenning. Ze worden vaak gebruikt in de gamingindustrie en op sociale media platforms.</li>
     <li><strong>Motion tracking:</strong> Dit is een technologie die wordt gebruikt om de bewegingen van een persoon of object te volgen en te analyseren. Het wordt vaak gebruikt in de filmindustrie, gaming en virtuele realiteit. Motion tracking maakt het mogelijk om realistische animaties te creëren en interactieve ervaringen te bieden.</li>
 </ul>
+
+<div class = 'bot_button'>
+    <a href="index.php?page=photovideo_test">Foto en video toets</a>
+</div>
+

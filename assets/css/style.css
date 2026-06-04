@@ -67,12 +67,12 @@ a:hover
 {
     background-color: #84acd8;
 }
-.test_container
+.bot_button
 {
     margin-top: 50px;
     display: flex;
 }
-.test_container a
+.bot_button a
 {
     color: rgb(255 255 255 / 0.9);
     background-color: rgb(255 0 89 / 0.5);
@@ -83,7 +83,7 @@ a:hover
     margin: 0 auto;
     text-align: center;
 }
-.test_container a:hover
+.bot_button a:hover
 {
     background-color: #84acd8;
 }
