@@ -1,41 +1,20 @@
-<h1>Foto & Video Geletterdheid</h1>
 
-<p>Hoe AI de grens tussen realiteit en fictie doet vervagen.</p>
-
-<h2>Wat zijn Deepfakes?</h2>
-<p>Een deepfake is een video-, audio- of fotobestand dat met behulp van kunstmatige intelligentie (AI) zo is bewerkt dat het echt lijkt, maar het niet is.
-    De term is een samenvoeging van 'deep learning' (een geavanceerde vorm van AI) en 'fake' (namaak).</p>
-<br>
-<p>Met deze techniek kan software het gezicht en de stem van een persoon met angstaanjagende precisie overzetten op het lichaam van iemand anders.
-    Wat voorheen miljoenen dollars en maanden werk kostte in Hollywood-studio's, kan nu binnen een paar minuten op een gewone computer worden gemaakt.</p>
-
-<h3>Het politieke en sociale gevaar</h3>
-<p>Het grootste probleem met deepfakes is de inzet ervan voor nepnieuws. Kwaadwillenden kunnen bekende politici, activisten of beroemdheden dingen laten zeggen of doen die ze in werkelijkheid nooit hebben gezegd of gedaan.
-    Dit maakt het een krachtig en gevaarlijk wapen voor het manipuleren van verkiezingen, het beschadigen van reputaties en het zaaien van paniek in de samenleving.</p>
-
-<h2>AI-Gegenereerde Beelden Herkennen</h2>
-<p>Naast het aanpassen van gezichten in bestaande video's, kunnen moderne AI-tools zoals Midjourney, DALL-E en Stable Diffusion compleet nieuwe, realistische foto's genereren op basis van een simpele tekstbeschrijving (een prompt).
-    Een bekend voorbeeld hiervan is de viraal gegane nep-foto van de Paus in een hippe, witte donsjas.</p>
-
-<h3>Praktische tips: Hoe herken je een AI-falsificatie?</h3>
-<h4>Hoewel de technologie zich razendsnel ontwikkelt, maakt AI nog steeds regelmatig anatomische en logische fouten.
-    Let bij het bekijken van foto's en video's op de volgende details:</h4>
 <h1>Photo & Video</h1>
 <p>Tekst over photo en video. <a href="index.php?page=ai">deeplearning</a> is daar een voorbeeld van. ze bekijken eerst de details van de afbeeldingen en video's. Aan de hand darvan gaan ze analyseren en gebruiken de informatie voor hun zelf en maken hun eigen video's en foto's.
 Ze kunnen ook <a href="index.php?page=tekst">misleidende informatie</a> verspreiden door middel van afbeeldingen en video's, omdat de <a href="index.php?page=ai">AI</a> nog niet helemaal perfect is kunnen ze mensen op het verkeerde pad sturen, omdat als mensen het voor eerst zien kunnen ze een <a href="index.php?page=ai">AI</a> vertrouwen terwijl de <a href="index.php?page=ai">AI</a> niet altijd gelijk heeft.</p>
-<h2><a href="index.php?page=tekst">misleidende informatie</a> door afbeeldingen en video's</h2>
+<h2><a href="index.php?page=tekst">misleidende informatie</a> door afbeeldingen en video's en herkenning</h2>
 <ul>
     <li>
         De ogen en de blik: In deepfake-video's knipperen mensen vaak onnatuurlijk weinig, of juist heel vreemd.
-        Ook heeft AI moeite met de juiste kijkrichting en de reflectie van het licht in de pupillen.
+        Ook heeft <a href="index.php?page=ai">AI</a> moeite met de juiste kijkrichting en de reflectie van het licht in de pupillen.
     </li>
     <li>
-        Handen en vingers: Het genereren van menselijke handen is nog altijd een van de grootste zwaktes van AI.
+        Handen en vingers: Het genereren van menselijke handen is nog altijd een van de grootste zwaktes van <a href="index.php?page=ai">AI</a>.
         Tel de vingers: soms zijn het er zes, zijn ze vreemd gebogen of smelten ze samen met de achtergrond.
     </li>
     <li>
         Symmetrie en accessoires: Kijk kritisch naar de details.
-        AI maakt de linker- en rechteroorbel vaak totaal verschillend, herstelt de symmetrie van brillen niet goed, of laat patronen op kleding vreemd ophouden.
+        <a href="index.php?page=ai">AI</a> maakt de linker- en rechteroorbel vaak totaal verschillend, herstelt de symmetrie van brillen niet goed, of laat patronen op kleding vreemd ophouden.
     </li>
     <li>
         Vreemde, wazige achtergronden: Om fouten in de textuur te verbergen, maken algoritmes de achtergrond vaak extreem wazig.
@@ -46,8 +25,16 @@ dit werd erg populair in de media, en zij werden vaak gebruikt voor het versprei
     <li><strong>Gemanipuleerde afbeeldingen:</strong> <a href="index.php?page=ai">AI</a> kan worden gebruikt om afbeeldingen te manipuleren, waardoor het moeilijk wordt om echte van neppe beelden te onderscheiden.</li>
     <li><strong>Misleidende video's:</strong> <a href="index.php?page=ai">AI</a> kan worden gebruikt om video's te manipuleren, waardoor het moeilijk wordt om echte van neppe video's te onderscheiden.</li>
 </ul>
+<h2>banen tervoorschijn met <a href="index.php?page=ai">AI</a> beelden?</h2>
 
-<h2>Denk je dat je een echte foto van een AI-creatie kunt onderscheiden?</h2>
+<p>Virtual influencers</p>
+<ul>
+    <li><strong>Virtual influencers:</strong> Dit zijn digitale personages die worden gecreëerd met behulp van <a href="index.php?page=ai">AI</a> en computergraphics.</li>
+    <li><strong>V-tubers:</strong> Dit zijn virtual influencers die gebruik maken van <a href="index.php?page=ai">AI</a> en animaties door gezichtsherkenning. Ze worden vaak gebruikt in de gamingindustrie en op sociale media platforms.</li>
+    <li><strong>Motion tracking:</strong> Dit is een technologie die wordt gebruikt om de bewegingen van een persoon of object te volgen en te analyseren. Het wordt vaak gebruikt in de filmindustrie, gaming en virtuele realiteit. Motion tracking maakt het mogelijk om realistische animaties te creëren en interactieve ervaringen te bieden.</li>
+</ul>
+
+<h2>Denk je dat je een echte foto van een <a href="index.php?page=ai">AI</a>-creatie kunt onderscheiden?</h2>
 
 <div class="quiz-container">
     <h2>Photo & Video Quiz: Echt of AI?</h2>
@@ -108,13 +95,3 @@ dit werd erg populair in de media, en zij werden vaak gebruikt voor het versprei
 <div class = 'test_container'>
 <a href="index.php?page=photovideo_test">Foto en video toets</a>
 </div>
-
-
-<h2>banen tervoorschijn met <a href="index.php?page=ai">AI</a> beelden?</h2>
-
-<p>Virtual influencers</p>
-<ul>
-    <li><strong>Virtual influencers:</strong> Dit zijn digitale personages die worden gecreëerd met behulp van <a href="index.php?page=ai">AI</a> en computergraphics.</li>
-    <li><strong>V-tubers:</strong> Dit zijn virtual influencers die gebruik maken van <a href="index.php?page=ai">AI</a> en animaties door gezichtsherkenning. Ze worden vaak gebruikt in de gamingindustrie en op sociale media platforms.</li>
-    <li><strong>Motion tracking:</strong> Dit is een technologie die wordt gebruikt om de bewegingen van een persoon of object te volgen en te analyseren. Het wordt vaak gebruikt in de filmindustrie, gaming en virtuele realiteit. Motion tracking maakt het mogelijk om realistische animaties te creëren en interactieve ervaringen te bieden.</li>
-</ul>

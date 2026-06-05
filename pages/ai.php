@@ -21,7 +21,7 @@
     <li><strong>Digitale hygiëne:</strong> Kritisch denken blijft de belangrijkste verdediging. Het is essentieel om informatie te controleren aan de hand van officiële bronnen
         en twijfelachtig materiaal in twijfel te trekken.</li>
 </ul>
-<h3>soorten bots</h3>
+<h3>Soorten bots</h3>
 <ul>
     <li><strong>chatbots:</strong> Deze bots zijn ontworpen om menselijke conversaties te simuleren en kunnen worden gebruikt om nepnieuws te verspreiden of valse informatie te leveren.</li>
     <li><strong>generative AI:</strong> Deze systemen kunnen automatisch inhoud genereren, waaronder nepnieuws, wat de verificatie moeilijker maakt.</li>
