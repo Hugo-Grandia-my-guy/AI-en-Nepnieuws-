@@ -30,6 +30,6 @@
     <li><strong>deep learning:</strong> Deze technologie maakt het mogelijk om complexe patronen in gegevens te herkennen en te gebruiken voor het genereren van nepinhoud.</li>
 </ul>
 
-<div class = 'test_container'>
+<div class = 'bot_button'>
 <a href="index.php?page=ai_test">AI toets</a>
 </div>

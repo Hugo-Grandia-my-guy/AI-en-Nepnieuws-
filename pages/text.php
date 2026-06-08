@@ -25,14 +25,12 @@
         waardoor een meer relevante en boeiende ervaring wordt geboden.</li>
 </ul>
 
-<p>Hoewel AI veel voordelen biedt, is het belangrijk om bewust te zijn van de risico's en uitdagingen die gepaard gaan met het gebruik van AI,
+<p>
+    Hoewel <a href="index.php?page=ai">AI</a> veel voordelen biedt, is het belangrijk om bewust te zijn van de risico's en uitdagingen die gepaard gaan met het gebruik van <a href="index.php?page=ai">AI</a>,
     vooral in het tijdperk van nepnieuws en desinformatie. Het is essentieel om kritisch te blijven en informatie te verifiëren voordat je het gelooft of deelt,
-    en om bewust te zijn van de mogelijkheid dat AI kan worden gebruikt om misleidende inhoud te genereren en te verspreiden.</p>
+    en om bewust te zijn van de mogelijkheid dat <a href="index.php?page=ai">AI</a> kan worden gebruikt om misleidende inhoud te genereren en te verspreiden.
+</p>
 
-<div class = 'test_container'>
-<a href="index.php?page=text_test">Tekst toets</a>
+<div class = 'bot_button'>
+    <a href="index.php?page=text_test">Tekst toets</a>
 </div>
-
-<p>Hoewel <a href="index.php?page=ai">AI</a> veel voordelen biedt, is het belangrijk om bewust te zijn van de risico's en uitdagingen die gepaard gaan met het gebruik van <a href="index.php?page=ai">AI</a>,
-    vooral in het tijdperk van nepnieuws en desinformatie. Het is essentieel om kritisch te blijven en informatie te verifiëren voordat je het gelooft of deelt,
-    en om bewust te zijn van de mogelijkheid dat <a href="index.php?page=ai">AI</a> kan worden gebruikt om misleidende inhoud te genereren en te verspreiden.</p>
