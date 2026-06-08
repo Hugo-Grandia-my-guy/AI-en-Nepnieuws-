@@ -77,7 +77,7 @@
     En zitten we echt te wachten op witte rook uit een datacenter op een industrieterrein in Rome? Ik denk het niet."
 </p>
 
-<!--Paus waarschuwt alleen maar voor AI omdat hij bang is dat het zijn baan overneemt                     (link naar de website voor copyright reasons)-->
+<a href="https://speld.nl/2026/05/26/paus-waarschuwt-alleen-maar-voor-ai-omdat-hij-bang-is-dat-het-zijn-baan-overneemt/">Paus waarschuwt alleen maar voor AI omdat hij bang is dat het zijn baan overneemt</a>  <!-- (link naar de website voor copyright reasons)</a> -->
 
 <fieldset class="QBox">
     <legend>Selecteer het juiste antwoord</legend>
@@ -174,6 +174,6 @@
     </div>
 </fieldset>
 
-<div class = 'Bot_button'>
+<div class = 'bot_button'>
     <a href="index.php?page=score">Klaar?</a>
 </div>
