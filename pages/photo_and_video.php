@@ -1,4 +1,3 @@
-<h1>Foto & Video Geletterdheid</h1>
 
 <p>Hoe <a href="index.php?page=ai">AI</a> de grens tussen realiteit en fictie doet vervagen.</p>
 
@@ -52,6 +51,9 @@ dit werd erg populair in de media, en zij werden vaak gebruikt voor het versprei
     <li><strong>Gemanipuleerde afbeeldingen:</strong> <a href="index.php?page=ai">AI</a> kan worden gebruikt om afbeeldingen te manipuleren, waardoor het moeilijk wordt om echte van neppe beelden te onderscheiden.</li>
     <li><strong>Misleidende video's:</strong> <a href="index.php?page=ai">AI</a> kan worden gebruikt om video's te manipuleren, waardoor het moeilijk wordt om echte van neppe video's te onderscheiden.</li>
 </ul>
+<h2>banen tervoorschijn met <a href="index.php?page=ai">AI</a> beelden?</h2>
+
+<h2>Denk je dat je een echte foto van een <a href="index.php?page=ai">AI</a>-creatie kunt onderscheiden?</h2>
 
 <h2>Denk je dat je een echte foto van een <a href="index.php?page=ai">AI</a>-creatie kunt onderscheiden?</h2>
 
