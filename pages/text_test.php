@@ -73,27 +73,27 @@
     En zitten we echt te wachten op witte rook uit een datacenter op een industrieterrein in Rome? Ik denk het niet."
 </p>
 
-<!--Paus waarschuwt alleen maar voor AI omdat hij bang is dat het zijn baan overneemt                     (link naar de website voor copyright reasons)-->
+<a href="https://speld.nl/2026/05/26/paus-waarschuwt-alleen-maar-voor-ai-omdat-hij-bang-is-dat-het-zijn-baan-overneemt/">Paus waarschuwt alleen maar voor AI omdat hij bang is dat het zijn baan overneemt</a>  <!-- (link naar de website voor copyright reasons)</a> -->
+
 <legend class="legend">Selecteer het juiste antwoord</legend>
 <div class="answers">
     <div class="radio-option">
-        <input type="radio" name="Q1" id="Q1_A1">
+        <input type="radio" name="Q2" id="Q1_A1">
         <label for="Q1_A1">misleidende koppen</label>
     </div>
-<a href="https://speld.nl/2026/05/26/paus-waarschuwt-alleen-maar-voor-ai-omdat-hij-bang-is-dat-het-zijn-baan-overneemt/">Paus waarschuwt alleen maar voor AI omdat hij bang is dat het zijn baan overneemt</a>  <!-- (link naar de website voor copyright reasons)</a> -->
 
     <div class="radio-option">
-        <input type="radio" name="Q1" id="Q1_A2">
+        <input type="radio" name="Q2" id="Q1_A2">
         <label for="Q1_A2">automatische gegenereerde inhoud</label>
     </div>
 
     <div class="radio-option">
-        <input type="radio" name="Q1" id="Q1_A3">
+        <input type="radio" name="Q2" id="Q1_A3">
         <label for="Q1_A3">misleidende titel</label>
     </div>
 
     <div class="radio-option">
-        <input type="radio" name="Q1" id="Q1_A4" checked>
+        <input type="radio" name="Q2" id="Q1_A4" checked>
         <label for="Q1_A4">verkeerde feiten</label>
     </div>
 </div>
@@ -123,12 +123,12 @@
      <legend class="legend">Selecteer het juiste antwoord</legend>
     <div class="answers">
             <div class="radio-option">
-                <input type="radio" name="Q1" id="Q1_A1">
+                <input type="radio" name="Q3" id="Q1_A1">
                 <label for="Q1_A1">True</label>
             </div>
 
             <div class="radio-option">
-                <input type="radio" name="Q1" id="Q1_A2" checked>
+                <input type="radio" name="Q3" id="Q1_A2" checked>
                 <label for="Q1_A2">False</label>
             </div>
     </div>
@@ -155,22 +155,22 @@
 <legend class="legend">Selecteer het juiste antwoord</legend>
 <div class="answers">
     <div class="radio-option">
-        <input type="radio" name="Q1" id="Q1_A1" checked>
+        <input type="radio" name="Q4" id="Q1_A1" checked>
         <label for="Q1_A1">misleidende koppen</label>
     </div>
 
     <div class="radio-option">
-        <input type="radio" name="Q1" id="Q1_A2">
+        <input type="radio" name="Q4" id="Q1_A2">
         <label for="Q1_A2">misleidende titel</label>
     </div>
 
     <div class="radio-option">
-        <input type="radio" name="Q1" id="Q1_A3">
+        <input type="radio" name="Q4" id="Q1_A3">
         <label for="Q1_A3">automatische vertaling</label>
     </div>
 
     <div class="radio-option">
-        <input type="radio" name="Q1" id="Q1_A4">
+        <input type="radio" name="Q4" id="Q1_A4">
         <label for="Q1_A4">verkeerde feiten</label>
     </div>
 </div>
