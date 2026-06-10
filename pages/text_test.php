@@ -31,32 +31,28 @@
 <br>
 
 
-
-<fieldset class="QBox">
-    <legend>Selecteer het juiste antwoord</legend>
-    <div class="options-container">
-
-        <div class="radio-option">
-            <input type="radio" name="Q1" id="Q1_A1" checked>
-            <label for="Q1_A1">misleidende koppen</label>
-        </div>
-
-        <div class="radio-option">
-            <input type="radio" name="Q1" id="Q1_A2">
-            <label for="Q1_A2">misleidende titel</label>
-        </div>
-
-        <div class="radio-option">
-            <input type="radio" name="Q1" id="Q1_A3">
-            <label for="Q1_A3">automatische gegenereede inhoud</label>  <!--TRUE-->
-        </div>
-
-        <div class="radio-option">
-            <input type="radio" name="Q1" id="Q1_A4">
-            <label for="Q1_A4">verkeerde feiten</label>
-        </div>
+<legend class="legend" >Selecteer het juiste antwoord</legend>
+<div class="answers">
+    <div class="radio-option">
+        <input type="radio" name="Q1" id="Q1_A1">
+        <label for="Q1_A1">misleidende koppen</label>
     </div>
-</fieldset>
+
+    <div class="radio-option">
+        <input type="radio" name="Q1" id="Q1_A2">
+        <label for="Q1_A2">misleidende titel</label>
+    </div>
+
+    <div class="radio-option">
+        <input type="radio" name="Q1" id="Q1_A3" checked>
+        <label for="Q1_A3">automatische gegeneerde inhoud</label>
+    </div>
+
+    <div class="radio-option">
+        <input type="radio" name="Q1" id="Q1_A4">
+        <label for="Q1_A4">verkeerde feiten</label>
+    </div>
+</div>
 
 <h3>Paus waarschuwt alleen maar voor AI omdat hij bang is dat het zijn baan overneemt</h3>
 
@@ -78,32 +74,28 @@
 </p>
 
 <!--Paus waarschuwt alleen maar voor AI omdat hij bang is dat het zijn baan overneemt                     (link naar de website voor copyright reasons)-->
-
-<fieldset class="QBox">
-    <legend>Selecteer het juiste antwoord</legend>
-    <div class="options-container">
-
-        <div class="radio-option">
-            <input type="radio" name="Q1" id="Q1_A1" checked>
-            <label for="Q1_A1">misleidende koppen</label>
-        </div>
-
-        <div class="radio-option">
-            <input type="radio" name="Q1" id="Q1_A2">
-            <label for="Q1_A2">misleidende titel</label>
-        </div>
-
-        <div class="radio-option">
-            <input type="radio" name="Q1" id="Q1_A3">
-            <label for="Q1_A3">automatische gegenereede inhoud</label>
-        </div>
-
-        <div class="radio-option">
-            <input type="radio" name="Q1" id="Q1_A4">
-            <label for="Q1_A4">verkeerde feiten</label>  <!--TRUE-->
-        </div>
+<legend class="legend">Selecteer het juiste antwoord</legend>
+<div class="answers">
+    <div class="radio-option">
+        <input type="radio" name="Q1" id="Q1_A1">
+        <label for="Q1_A1">misleidende koppen</label>
     </div>
-</fieldset>
+
+    <div class="radio-option">
+        <input type="radio" name="Q1" id="Q1_A2">
+        <label for="Q1_A2">automatische gegenereerde inhoud</label>
+    </div>
+
+    <div class="radio-option">
+        <input type="radio" name="Q1" id="Q1_A3">
+        <label for="Q1_A3">misleidende titel</label>
+    </div>
+
+    <div class="radio-option">
+        <input type="radio" name="Q1" id="Q1_A4" checked>
+        <label for="Q1_A4">verkeerde feiten</label>
+    </div>
+</div>
 
 <h3>Automatische vertaling met AI wordt steeds populairder</h3>
 
@@ -127,7 +119,19 @@
 </p>
 
 <div>
-            <!--  true/false statement, answer = false  -->
+     <legend class="legend">Selecteer het juiste antwoord</legend>
+    <div class="answers">
+            <div class="radio-option">
+                <input type="radio" name="Q1" id="Q1_A1">
+                <label for="Q1_A1">True</label>
+            </div>
+
+            <div class="radio-option">
+                <input type="radio" name="Q1" id="Q1_A2" checked>
+                <label for="Q1_A2">False</label>
+            </div>
+    </div>
+           <!--  true/false statement, answer = false  -->
 </div>
 
 <h3>De Opkomst van AI en Deep Learning</h3>
@@ -147,32 +151,28 @@
 <p>
     In de praktijk zijn AI en deep learning krachtige hulpmiddelen die veel taken kunnen ondersteunen, maar de misleidende koppen hierboven overdrijven wat de technologie momenteel werkelijk kan.
 </p>
-
-<fieldset class="QBox">
-    <legend>Selecteer het juiste antwoord</legend>
-    <div class="options-container">
-
-        <div class="radio-option">
-            <input type="radio" name="Q1" id="Q1_A1" checked>
-            <label for="Q1_A1">misleidende koppen</label>       <!--TRUE-->
-        </div>
-
-        <div class="radio-option">
-            <input type="radio" name="Q1" id="Q1_A2">
-            <label for="Q1_A2">misleidende titel</label>
-        </div>
-
-        <div class="radio-option">
-            <input type="radio" name="Q1" id="Q1_A3">
-            <label for="Q1_A3">automatische gegenereede inhoud</label>
-        </div>
-
-        <div class="radio-option">
-            <input type="radio" name="Q1" id="Q1_A4">
-            <label for="Q1_A4">verkeerde feiten</label>
-        </div>
+<legend class="legend">Selecteer het juiste antwoord</legend>
+<div class="answers">
+    <div class="radio-option">
+        <input type="radio" name="Q1" id="Q1_A1" checked>
+        <label for="Q1_A1">misleidende koppen</label>
     </div>
-</fieldset>
+
+    <div class="radio-option">
+        <input type="radio" name="Q1" id="Q1_A2">
+        <label for="Q1_A2">misleidende titel</label>
+    </div>
+
+    <div class="radio-option">
+        <input type="radio" name="Q1" id="Q1_A3">
+        <label for="Q1_A3">automatische vertaling</label>
+    </div>
+
+    <div class="radio-option">
+        <input type="radio" name="Q1" id="Q1_A4">
+        <label for="Q1_A4">verkeerde feiten</label>
+    </div>
+</div>
 
 <div class = 'Bot_button'>
     <a href="index.php?page=score">Klaar?</a>
