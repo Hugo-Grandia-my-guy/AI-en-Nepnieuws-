@@ -8,6 +8,11 @@
         <input type="radio" name="Q1" id="Q1_A1" checked>
         <label for="Q1_A1">generative AI</label>
     </div>
+<div class="bot_button">
+    <a href="index.php?page=score" onclick="finishTest('text', 4)">
+        Test afronden
+    </a>
+</div>
 
     <div class="radio-option">
         <input type="radio" name="Q1" id="Q1_A2">
@@ -114,3 +119,5 @@
         <label for="Q5_A4">Digitale hygiëne</label>
     </div>
 </div>
+
+<script src="assets/script/test_score.js"></script>

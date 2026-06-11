@@ -10,7 +10,7 @@
             </div>
 
             <div class="radio-option">
-                <input type="radio" name="Q1" id="Q1_A2" checked>
+                <input type="radio" name="Q1" id="Q1_A2" data-correct="true">
                 <label for="Q1_A2">False</label>
             </div>
         </div>
@@ -23,7 +23,7 @@
             </div>
 
             <div class="radio-option">
-                <input type="radio" name="Q2" id="Q2_A2" checked>
+                <input type="radio" name="Q2" id="Q2_A2" data-correct="true">
                 <label for="Q2_A2">False</label>
             </div>
         </div>  
@@ -31,7 +31,7 @@
             <legend class="legend">Selecteer het juiste antwoord</legend>
             <div class="answers">
                 <div class="radio-option">
-                    <input type="radio" name="Q3" id="Q3_A1" checked>
+                    <input type="radio" name="Q3" id="Q3_A1" data-correct="true">
                     <label for="Q3_A1">True</label>
                 </div>
     
@@ -107,6 +107,11 @@
 </div>
 
 <script src='assets/script/script.js'></script>
-         <div class = 'bot_button'>
-    <a href="index.php?page=score">Klaar?</a>
-</div>
+
+    <div class='bot_button'>
+        <a href="index.php?page=score" onclick="finishTest('text', 4)">
+            Test afronden
+        </a>
+    </div>
+
+    <script src="assets/script/test_score.js"></script>
