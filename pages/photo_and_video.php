@@ -47,20 +47,19 @@ Ze kunnen ook <a href="index.php?page=tekst">misleidende informatie</a> versprei
         Zoek naar zwevende objecten, vervormde lijnen bij gebouwen of objecten die vreemd in elkaar overlopen.
     </li>
     <li><strong>Deepfakes:</strong> Deze technologie maakt het mogelijk om realistische nepvideo's te genereren waarbij een persoon zich voordoet als iemand anders.
-dit werd erg populair in de media, en zij werden vaak gebruikt voor het verspreiden van <a href="index.php?page=tekst">Nepnieuws</a>.</li>
+        dit werd erg populair in de media, en zij werden vaak gebruikt voor het verspreiden van <a href="index.php?page=tekst">Nepnieuws</a>.</li>
     <li><strong>Gemanipuleerde afbeeldingen:</strong> <a href="index.php?page=ai">AI</a> kan worden gebruikt om afbeeldingen te manipuleren, waardoor het moeilijk wordt om echte van neppe beelden te onderscheiden.</li>
     <li><strong>Misleidende video's:</strong> <a href="index.php?page=ai">AI</a> kan worden gebruikt om video's te manipuleren, waardoor het moeilijk wordt om echte van neppe video's te onderscheiden.</li>
 </ul>
-<h2>banen tervoorschijn met <a href="index.php?page=ai">AI</a> beelden?</h2>
+<h2>Banen tervoorschijn met <a href="index.php?page=ai">AI</a> beelden?</h2>
 
 <h2>Denk je dat je een echte foto van een <a href="index.php?page=ai">AI</a>-creatie kunt onderscheiden?</h2>
 
-<h2>Denk je dat je een echte foto van een <a href="index.php?page=ai">AI</a>-creatie kunt onderscheiden?</h2>
 
 <div class="quiz-container">
     <h2>Photo & Video Quiz: Echt of AI?</h2>
 
-    <p>Klik op de afbeelding die volgens jou **ECHT** is. Let goed op de details!</p>
+    <p>Klik op de afbeelding die volgens jou <strong>**ECHT**</strong> is. Let goed op de details!</p>
 
     <div class="quiz-question" id="q1">
         <h3>Ronde 1: Welk huis is echt?</h3>
@@ -126,14 +125,13 @@ dit werd erg populair in de media, en zij werden vaak gebruikt voor het versprei
 <script src='assets/script/script.js'></script>
 
 
-<h2>banen tervoorschijn met <a href="index.php?page=ai">AI</a> beelden?</h2>
-
 <p>Virtual influencers</p>
 <ul>
     <li><strong>Virtual influencers:</strong> Dit zijn digitale personages die worden gecreëerd met behulp van <a href="index.php?page=ai">AI</a> en computergraphics.</li>
     <li><strong>V-tubers:</strong> Dit zijn virtual influencers die gebruik maken van <a href="index.php?page=ai">AI</a> en animaties door gezichtsherkenning. Ze worden vaak gebruikt in de gamingindustrie en op sociale media platforms.</li>
     <li><strong>Motion tracking:</strong> Dit is een technologie die wordt gebruikt om de bewegingen van een persoon of object te volgen en te analyseren. Het wordt vaak gebruikt in de filmindustrie, gaming en virtuele realiteit. Motion tracking maakt het mogelijk om realistische animaties te creëren en interactieve ervaringen te bieden.</li>
 </ul>
+
 
 <div class = 'bot_button'>
     <a href="index.php?page=photovideo_test">Foto en video toets</a>
