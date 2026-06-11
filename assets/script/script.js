@@ -35,5 +35,3 @@ function showFinalScore() {
     banner.style.display = 'block';
     scoreText.innerHTML = `Je hebt <strong>${score}</strong> van de 3 echte foto's correct geraden.`;
 }
-
-// tests

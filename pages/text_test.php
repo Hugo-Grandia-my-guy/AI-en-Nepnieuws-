@@ -44,7 +44,7 @@
     </div>
 
     <div class="radio-option">
-        <input type="radio" name="Q1" id="Q1_A3" checked>
+        <input type="radio" name="Q1" id="Q1_A3" data-correct="true">
         <label for="Q1_A3">automatische gegeneerde inhoud</label>
     </div>
 
@@ -93,7 +93,7 @@
     </div>
 
     <div class="radio-option">
-        <input type="radio" name="Q2" id="Q1_A4" checked>
+        <input type="radio" name="Q2" id="Q1_A4" data-correct="true">
         <label for="Q1_A4">verkeerde feiten</label>
     </div>
 </div>
@@ -128,7 +128,7 @@
             </div>
 
             <div class="radio-option">
-                <input type="radio" name="Q3" id="Q1_A2" checked>
+                <input type="radio" name="Q3" id="Q1_A2" data-correct="true">
                 <label for="Q1_A2">False</label>
             </div>
     </div>
@@ -155,7 +155,7 @@
 <legend class="legend">Selecteer het juiste antwoord</legend>
 <div class="answers">
     <div class="radio-option">
-        <input type="radio" name="Q4" id="Q1_A1" checked>
+        <input type="radio" name="Q4" id="Q1_A1" data-correct="true">
         <label for="Q1_A1">misleidende koppen</label>
     </div>
 
@@ -175,6 +175,10 @@
     </div>
 </div>
 
-<div class = 'bot_button'>
-    <a href="index.php?page=score">Klaar?</a>
+<div class="bot_button">
+    <a href="index.php?page=score" onclick="finishTest('text', 4)">
+        Test afronden
+    </a>
 </div>
+
+<script src="assets/script/test_score.js"></script>
