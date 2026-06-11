@@ -106,8 +106,7 @@
     </div>
 </div>
 
-<script src='assets/script/script.js'></script>     
-
-<div class = 'bot_button'>
+<script src='assets/script/script.js'></script>
+         <div class = 'bot_button'>
     <a href="index.php?page=score">Klaar?</a>
 </div>
