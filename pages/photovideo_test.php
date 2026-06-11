@@ -1,6 +1,6 @@
     <h1>Photo & Video</h1>
 
-    <h3>Vraag 1: AI maakt gebruik van Digitale hygiëne om afbeeldingen te creëren?</h2>
+    <h2>Vraag 1: AI maakt gebruik van Digitale hygiëne om afbeeldingen te creëren?</h2>
 
         <legend class="legend">Selecteer het juiste antwoord</legend>
         <div class="answers">
@@ -14,7 +14,7 @@
                 <label for="Q1_A2">False</label>
             </div>
         </div>
-     <h3>Vraag 2: Als een video afkomstig is van een bekend socialmediaplatform, is de kans op manipulatie verwaarloosbaar.</h2> 
+     <h2>Vraag 2: Als een video afkomstig is van een bekend socialmediaplatform, is de kans op manipulatie verwaarloosbaar.</h2>
         <legend class="legend">Selecteer het juiste antwoord</legend>
         <div class="answers">
             <div class="radio-option">
@@ -27,7 +27,7 @@
                 <label for="Q2_A2">False</label>
             </div>
         </div>  
-    <h3>Vraag 3: Een video waarin iemand natuurlijk knippert, correcte lichtreflecties in de ogen heeft en een logische kijkrichting toont, kan nog steeds een deepfake zijn.</h3>    
+    <h2>Vraag 3: Een video waarin iemand natuurlijk knippert, correcte lichtreflecties in de ogen heeft en een logische kijkrichting toont, kan nog steeds een deepfake zijn.</h2>
             <legend class="legend">Selecteer het juiste antwoord</legend>
             <div class="answers">
                 <div class="radio-option">
