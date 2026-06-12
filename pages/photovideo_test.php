@@ -1,6 +1,6 @@
     <h1>Photo & Video</h1>
 
-    <h2>Vraag 1: AI maakt gebruik van Digitale hygiëne om afbeeldingen te creëren?</h2>
+    <h2>Vraag №1: AI maakt gebruik van Digitale hygiëne om afbeeldingen te creëren?</h2>
 
         <legend class="legend">Selecteer het juiste antwoord</legend>
         <div class="answers">
@@ -14,7 +14,7 @@
                 <label for="Q1_A2">False</label>
             </div>
         </div>
-     <h2>Vraag 2: Als een video afkomstig is van een bekend socialmediaplatform, is de kans op manipulatie verwaarloosbaar.</h2>
+     <h2>Vraag №2: Als een video afkomstig is van een bekend socialmediaplatform, is de kans op manipulatie verwaarloosbaar.</h2>
         <legend class="legend">Selecteer het juiste antwoord</legend>
         <div class="answers">
             <div class="radio-option">
@@ -27,7 +27,7 @@
                 <label for="Q2_A2">False</label>
             </div>
         </div>  
-    <h2>Vraag 3: Een video waarin iemand natuurlijk knippert, correcte lichtreflecties in de ogen heeft en een logische kijkrichting toont, kan nog steeds een deepfake zijn.</h2>
+    <h2>Vraag №3: Een video waarin iemand natuurlijk knippert, correcte lichtreflecties in de ogen heeft en een logische kijkrichting toont, kan nog steeds een deepfake zijn.</h2>
             <legend class="legend">Selecteer het juiste antwoord</legend>
             <div class="answers">
                 <div class="radio-option">
@@ -43,7 +43,7 @@
 
     <p>Klik op de afbeelding die volgens jou **ECHT** is. Let goed op de details!</p>
 
-        <h2>Ronde 1: Welk huis is echt?</h2>
+        <h2>Vraag №4: Welk huis is echt?</h2>
 
     <legend class="legend">Selecteer echte foto</legend>
     <div class="answers">
@@ -59,7 +59,7 @@
     </div>
 
 
-        <h3>Ronde 2: Welke kat is echt?</h3>
+        <h3>Vraag №5: Welke kat is echt?</h3>
 
     <legend class="legend">Selecteer echte foto</legend>
     <div class="answers">
@@ -75,7 +75,7 @@
     </div>
 
 
-        <h3>Ronde 3: Welk person is echt?</h3>
+        <h3>Vraag №6: Welk person is echt?</h3>
 
     <legend class="legend">Selecteer echte foto</legend>
     <div class="answers">

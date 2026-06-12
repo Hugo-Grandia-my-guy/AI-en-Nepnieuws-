@@ -35,22 +35,22 @@
 <div class="answers">
     <div class="radio-option">
         <input type="radio" name="Q1" id="Q1_A1">
-        <label for="Q1_A1">misleidende koppen</label>
+        <label for="Q1_A1">Misleidende koppen</label>
     </div>
 
     <div class="radio-option">
         <input type="radio" name="Q1" id="Q1_A2">
-        <label for="Q1_A2">misleidende titel</label>
+        <label for="Q1_A2">Misleidende titel</label>
     </div>
 
     <div class="radio-option">
         <input type="radio" name="Q1" id="Q1_A3" data-correct="true">
-        <label for="Q1_A3">automatische gegeneerde inhoud</label>
+        <label for="Q1_A3">Automatische gegeneerde inhoud</label>
     </div>
 
     <div class="radio-option">
         <input type="radio" name="Q1" id="Q1_A4">
-        <label for="Q1_A4">verkeerde feiten</label>
+        <label for="Q1_A4">Verkeerde feiten</label>
     </div>
 </div>
 
@@ -79,22 +79,22 @@
 <div class="answers">
     <div class="radio-option">
         <input type="radio" name="Q2" id="Q1_A1">
-        <label for="Q1_A1">misleidende koppen</label>
+        <label for="Q1_A1">Misleidende koppen</label>
     </div>
 
     <div class="radio-option">
         <input type="radio" name="Q2" id="Q1_A2">
-        <label for="Q1_A2">automatische gegenereerde inhoud</label>
+        <label for="Q1_A2">Automatische gegenereerde inhoud</label>
     </div>
 
     <div class="radio-option">
         <input type="radio" name="Q2" id="Q1_A3">
-        <label for="Q1_A3">misleidende titel</label>
+        <label for="Q1_A3">Misleidende titel</label>
     </div>
 
     <div class="radio-option">
         <input type="radio" name="Q2" id="Q1_A4" data-correct="true">
-        <label for="Q1_A4">verkeerde feiten</label>
+        <label for="Q1_A4">Verkeerde feiten</label>
     </div>
 </div>
 
@@ -156,22 +156,22 @@
 <div class="answers">
     <div class="radio-option">
         <input type="radio" name="Q4" id="Q1_A1" data-correct="true">
-        <label for="Q1_A1">misleidende koppen</label>
+        <label for="Q1_A1">Misleidende koppen</label>
     </div>
 
     <div class="radio-option">
         <input type="radio" name="Q4" id="Q1_A2">
-        <label for="Q1_A2">misleidende titel</label>
+        <label for="Q1_A2">Misleidende titel</label>
     </div>
 
     <div class="radio-option">
         <input type="radio" name="Q4" id="Q1_A3">
-        <label for="Q1_A3">automatische vertaling</label>
+        <label for="Q1_A3">Automatische vertaling</label>
     </div>
 
     <div class="radio-option">
         <input type="radio" name="Q4" id="Q1_A4">
-        <label for="Q1_A4">verkeerde feiten</label>
+        <label for="Q1_A4">Verkeerde feiten</label>
     </div>
 </div>
 
