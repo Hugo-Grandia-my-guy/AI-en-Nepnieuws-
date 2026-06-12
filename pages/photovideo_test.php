@@ -40,76 +40,59 @@
                     <label for="Q3_A2">False</label>
                 </div>
             </div>
-    <div class="quiz-container">
-    <h2>Photo & Video Quiz: Echt of AI?</h2>
 
     <p>Klik op de afbeelding die volgens jou **ECHT** is. Let goed op de details!</p>
 
-    <div class="quiz-question" id="q2">
-        <h3>Ronde 1: Welk huis is echt?</h3>
+        <h2>Ronde 1: Welk huis is echt?</h2>
 
-        <div class="quiz-options">
-            <div class="option-card" onclick="checkAnswer(1, 'echt', this)">
-                <img src="assets/img/house_real_quiz.jpg" alt="Huis 1">
-                <span class="label">Optie A</span>
-            </div>
-
-            <div class="option-card" onclick="checkAnswer(1, 'ai', this)">
-                <img src="assets/img/house_AI_quiz.jpg" alt="Huis 2">
-                <span class="label">Optie B</span>
-            </div>
+    <legend class="legend">Selecteer echte foto</legend>
+    <div class="answers">
+        <div class="radio-option">
+            <input type="radio" name="Q4" id="Q4_A1" data-correct="true">
+            <img src="assets/img/house_real_quiz.jpg" alt="Huis 1">
         </div>
 
-        <div class="quiz-feedback" id="feedback-1"></div>
+        <div class="radio-option">
+            <input type="radio" name="Q4" id="Q4_A2">
+            <img src="assets/img/house_AI_quiz.jpg" alt="Huis 2">
+        </div>
     </div>
 
-    <div class="quiz-question" id="q2">
+
         <h3>Ronde 2: Welke kat is echt?</h3>
 
-        <div class="quiz-options">
-            <div class="option-card" onclick="checkAnswer(2, 'echt', this)">
-                <img src="assets/img/cat_real_quiz.jpg" alt="Kat 1">
-                <span class="label">Optie A</span>
-            </div>
-
-            <div class="option-card" onclick="checkAnswer(2, 'ai', this)">
-                <img src="assets/img/cat_ai_quiz.jpg" alt="Kat 2">
-                <span class="label">Optie B</span>
-            </div>
+    <legend class="legend">Selecteer echte foto</legend>
+    <div class="answers">
+        <div class="radio-option">
+            <input type="radio" name="Q5" id="Q5_A1" data-correct="true">
+            <img src="assets/img/cat_real_quiz.jpg" alt="Kat 1">
         </div>
 
-        <div class="quiz-feedback" id="feedback-2"></div>
+        <div class="radio-option">
+            <input type="radio" name="Q5" id="Q5_A2">
+            <img src="assets/img/cat_ai_quiz.jpg" alt="Kat 2">
+        </div>
     </div>
 
-    <div class="quiz-question" id="q3">
-        <h3>Ronde 3: Welk gezicht is echt?</h3>
 
-        <div class="quiz-options">
-            <div class="option-card" onclick="checkAnswer(3, 'ai', this)">
-                <img src="assets/img/mens_ai_quiz.jpg" alt="Gezicht 1">
-                <span class="label">Optie A</span>
-            </div>
+        <h3>Ronde 3: Welk person is echt?</h3>
 
-            <div class="option-card" onclick="checkAnswer(3, 'echt', this)">
-                <img src="assets/img/mens_real_quiz.jpg" alt="Gezicht 2">
-                <span class="label">Optie B</span>
-            </div>
+    <legend class="legend">Selecteer echte foto</legend>
+    <div class="answers">
+        <div class="radio-option">
+            <input type="radio" name="Q6" id="Q6_A1">
+            <img src="assets/img/mens_ai_quiz.jpg" alt="Gezicht 1">
         </div>
 
-        <div class="quiz-feedback" id="feedback-3"></div>
+        <div class="radio-option">
+            <input type="radio" name="Q6" id="Q6_A2" data-correct="true">
+            <img src="assets/img/mens_real_quiz.jpg" alt="Gezicht 2">
+        </div>
     </div>
 
-    <div id="quiz-score-banner" style="display: none;">
-        <hr>
-        <h3>Quiz Afgerond!</h3>
-        <p id="total-score-text"></p>
-    </div>
-</div>
-
-<script src='assets/script/script.js'></script>
 
     <div class='bot_button'>
-        <a href="index.php?page=score" onclick="finishTest('text', 4)">
+        <a href="index.php?page=score" onclick="finishTest('photo', 6)">
             Test afronden
         </a>
     </div>

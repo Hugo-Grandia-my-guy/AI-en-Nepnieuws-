@@ -121,7 +121,7 @@ Ze kunnen ook <a href="index.php?page=tekst">misleidende informatie</a> versprei
     </div>
 </div>
 
-<script src='assets/script/script.js'></script>
+<script src='assets/script/quiz.js'></script>
 
 
 

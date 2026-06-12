@@ -1,5 +1,5 @@
 <div class="bot_button">
-    <a href="index.php?page=score" onclick="finishTest('text', 4)">
+    <a href="index.php?page=score" onclick="finishTest('ai', 4)">
         Test afronden
     </a>
 </div>
