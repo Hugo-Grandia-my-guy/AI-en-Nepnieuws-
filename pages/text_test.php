@@ -118,7 +118,7 @@
     vooral bij juridische documenten, medische informatie en andere teksten waarbij nauwkeurigheid essentieel is.
     Volgens onderzoekers zal AI het werk van vertalers waarschijnlijk veranderen, maar niet volledig vervangen.
 </p>
-
+<h2>bots vervangen werknemers</h2>
 <div>
      <legend class="legend">Selecteer het juiste antwoord</legend>
     <div class="answers">

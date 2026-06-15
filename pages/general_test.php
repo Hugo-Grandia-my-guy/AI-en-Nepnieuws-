@@ -58,19 +58,33 @@
     <p>Klik op de afbeelding die volgens jou **ECHT** is. Let goed op de details!</p>
 
         <div class="quiz-question" id="q2">
-            <h3>Ronde 1: Welk huis is echt?</h3>
+            <h3>Ronde 1: Welke berg is echt?</h3>
 
             <div class="quiz-options">
                 <div class="option-card" onclick="checkAnswer(1, 'echt', this)">
-                    <img src="assets/img/house_real_quiz.jpg" alt="Huis 1">
+                    <img src="assets/img/berg_AI_quiz.jpg" alt="Berg 1">
                     <span class="label">Optie A</span>
                 </div>
 
                 <div class="option-card" onclick="checkAnswer(1, 'ai', this)">
-                    <img src="assets/img/house_AI_quiz.jpg" alt="Huis 2">
+                    <img src="assets/img/berg_real_quiz.png" alt="Berg 2">
                     <span class="label">Optie B</span>
                 </div>
             </div>
+            <div class="quiz-question" id="q2">
+                <h3>Ronde 1: Welk huis is echt?</h3>
+
+                <div class="quiz-options">
+                    <div class="option-card" onclick="checkAnswer(1, 'echt', this)">
+                        <img src="assets/img/cat2_real_quiz.jpg" alt="Huis 1">
+                        <span class="label">Optie A</span>
+                    </div>
+
+                    <div class="option-card" onclick="checkAnswer(1, 'ai', this)">
+                        <img src="assets/img/cat2_AI_quiz.jpg" alt="Huis 2">
+                        <span class="label">Optie B</span>
+                    </div>
+                </div>
 
             <div class="quiz-feedback" id="feedback-1"></div>
         </div>
@@ -79,23 +93,23 @@
          <legend class="legend">Selecteer het juiste antwoord</legend>
         <div class="answers">
             <div class="radio-option">
-                <input type="radio" name="Q2" id="Q2_A1" checked> 
-                <label for="Q2_A1">Generative AI</label>
+                <input type="radio" name="Q2" id="Q6_A1" checked>
+                <label for="Q2_A1">Machines leren zichzelf repareren</label>
             </div>
 
             <div class="radio-option">
-                <input type="radio" name="Q2" id="Q2_A2">
-                <label for="Q2_A2">Chatbots</label>
+                <input type="radio" name="Q2" id="Q6_A2" checked> <!-- correct answer-->
+                <label for="Q2_A2">computers leren patronen uit data kennen</label>
             </div>
 
             <div class="radio-option">
-                <input type="radio" name="Q2" id="Q2_A3">
-                <label for="Q2_A3">video generating</label>
+                <input type="radio" name="Q2" id="Q6_A3">
+                <label for="Q2_A3">Computers bouwen machines</label>
             </div>
 
             <div class="radio-option">
-                <input type="radio" name="Q2" id="Q2_A4" checked> <!-- correct answer -->
-                <label for="Q2_A4">deeplearning</label>
+                <input type="radio" name="Q2" id="Q6_A4">
+                <label for="Q2_A4">Machines leren talen spreken zonder data</label>
             </div>
         </div>
         <h2>Vraag #5</h2>
@@ -103,23 +117,23 @@
             <legend class="legend">Selecteer het juiste antwoord</legend>
                 <div class="answers">
                 <div class="radio-option">
-                    <input type="radio" name="Q2" id="Q2_A1" checked> 
-                    <label for="Q2_A1">Generative AI</label>
+                    <input type="radio" name="Q2" id="Q3_A1" checked> <!-- correct answer -->
+                    <label for="Q2_A1">Informatie waarmee AI kan leren en werken</label>
                 </div>
 
                 <div class="radio-option">
-                    <input type="radio" name="Q2" id="Q2_A2">
-                    <label for="Q2_A2">Chatbots</label>
+                    <input type="radio" name="Q2" id="Q3_A2">
+                    <label for="Q2_A2">Een soort computerchip</label>
                 </div>
 
                 <div class="radio-option">
-                    <input type="radio" name="Q2" id="Q2_A3">
-                    <label for="Q2_A3">video generating</label>
+                    <input type="radio" name="Q2" id="Q3_A3">
+                    <label for="Q2_A3">een programmeertaal</label>
                 </div>
 
                 <div class="radio-option">
-                    <input type="radio" name="Q2" id="Q2_A4" checked> <!-- correct answer -->
-                    <label for="Q2_A4">deeplearning</label>
+                    <input type="radio" name="Q2" id="Q4_A4">
+                    <label for="Q2_A4">een internetkabel</label>
                 </div>
             </div>
         <h2>Vraag #6</h2>
@@ -127,23 +141,23 @@
           <legend class="legend">Selecteer het juiste antwoord</legend>
           <div class="answers">
               <div class="radio-option">
-                  <input type="radio" name="Q2" id="Q2_A1" checked>
-                  <label for="Q2_A1">Generative AI</label>
+                  <input type="radio" name="Q2" id="Q5_A1" checked><!-- correct answer -->
+                  <label for="Q2_A1">Bias en discriminatie door trainingsdata</label>
               </div>
 
               <div class="radio-option">
-                  <input type="radio" name="Q2" id="Q2_A2">
-                  <label for="Q2_A2">Chatbots</label>
+                  <input type="radio" name="Q2" id="Q5_A2">
+                  <label for="Q2_A2">Te veel schermhelderheid</label>
               </div>
 
               <div class="radio-option">
-                  <input type="radio" name="Q2" id="Q2_A3">
-                  <label for="Q2_A3">video generating</label>
+                  <input type="radio" name="Q2" id="Q5_A3">
+                  <label for="Q2_A3">Langzame Wifi</label>
               </div>
 
               <div class="radio-option">
-                  <input type="radio" name="Q2" id="Q2_A4" checked> <!-- correct answer -->
-                  <label for="Q2_A4">deeplearning</label>
+                  <input type="radio" name="Q2" id="Q5_A4">
+                  <label for="Q2_A4">Te weinig opslagruimte</label>
               </div>
           </div>
 <div class="bot_button">
