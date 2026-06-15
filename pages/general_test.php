@@ -57,19 +57,95 @@
 
     <p>Klik op de afbeelding die volgens jou **ECHT** is. Let goed op de details!</p>
 
-          <legend class="legend">Selecteer echte foto</legend>
+        <div class="quiz-question" id="q2">
+            <h3>Ronde 1: Welk huis is echt?</h3>
+
+            <div class="quiz-options">
+                <div class="option-card" onclick="checkAnswer(1, 'echt', this)">
+                    <img src="assets/img/house_real_quiz.jpg" alt="Huis 1">
+                    <span class="label">Optie A</span>
+                </div>
+
+                <div class="option-card" onclick="checkAnswer(1, 'ai', this)">
+                    <img src="assets/img/house_AI_quiz.jpg" alt="Huis 2">
+                    <span class="label">Optie B</span>
+                </div>
+            </div>
+
+            <div class="quiz-feedback" id="feedback-1"></div>
+        </div>
+     <h2>Vraag #4</h2> 
+     <p>Wat betekent “machine learning”?</p>
+         <legend class="legend">Selecteer het juiste antwoord</legend>
+        <div class="answers">
+            <div class="radio-option">
+                <input type="radio" name="Q2" id="Q2_A1" checked> 
+                <label for="Q2_A1">Generative AI</label>
+            </div>
+
+            <div class="radio-option">
+                <input type="radio" name="Q2" id="Q2_A2">
+                <label for="Q2_A2">Chatbots</label>
+            </div>
+
+            <div class="radio-option">
+                <input type="radio" name="Q2" id="Q2_A3">
+                <label for="Q2_A3">video generating</label>
+            </div>
+
+            <div class="radio-option">
+                <input type="radio" name="Q2" id="Q2_A4" checked> <!-- correct answer -->
+                <label for="Q2_A4">deeplearning</label>
+            </div>
+        </div>
+        <h2>Vraag #5</h2>
+        <p>Wat is data voor een AI-systeem?</p>
+            <legend class="legend">Selecteer het juiste antwoord</legend>
+                <div class="answers">
+                <div class="radio-option">
+                    <input type="radio" name="Q2" id="Q2_A1" checked> 
+                    <label for="Q2_A1">Generative AI</label>
+                </div>
+
+                <div class="radio-option">
+                    <input type="radio" name="Q2" id="Q2_A2">
+                    <label for="Q2_A2">Chatbots</label>
+                </div>
+
+                <div class="radio-option">
+                    <input type="radio" name="Q2" id="Q2_A3">
+                    <label for="Q2_A3">video generating</label>
+                </div>
+
+                <div class="radio-option">
+                    <input type="radio" name="Q2" id="Q2_A4" checked> <!-- correct answer -->
+                    <label for="Q2_A4">deeplearning</label>
+                </div>
+            </div>
+        <h2>Vraag #6</h2>
+        <p>Wat is een belangrijk ethisch risico van generatieve AI?</p>
+          <legend class="legend">Selecteer het juiste antwoord</legend>
           <div class="answers">
               <div class="radio-option">
-                  <input type="radio" name="Q4" id="Q4_A1" data-correct="true">
-                  <img src="assets/img/house_real_quiz.jpg" alt="Huis 1">
+                  <input type="radio" name="Q2" id="Q2_A1" checked>
+                  <label for="Q2_A1">Generative AI</label>
               </div>
 
               <div class="radio-option">
-                  <input type="radio" name="Q4" id="Q4_A2">
-                  <img src="assets/img/house_AI_quiz.jpg" alt="Huis 2">
+                  <input type="radio" name="Q2" id="Q2_A2">
+                  <label for="Q2_A2">Chatbots</label>
+              </div>
+
+              <div class="radio-option">
+                  <input type="radio" name="Q2" id="Q2_A3">
+                  <label for="Q2_A3">video generating</label>
+              </div>
+
+              <div class="radio-option">
+                  <input type="radio" name="Q2" id="Q2_A4" checked> <!-- correct answer -->
+                  <label for="Q2_A4">deeplearning</label>
               </div>
           </div>
-
 <div class="bot_button">
     <a href="index.php?page=score" onclick="finishTest('text', 4)">
         Test afronden
