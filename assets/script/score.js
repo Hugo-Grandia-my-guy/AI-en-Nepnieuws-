@@ -3,7 +3,8 @@ function loadScores() {
     const tests = [
         { key: 'ai', title: 'AI Test' },
         { key: 'text', title: 'Tekst Test' },
-        { key: 'photo', title: 'Foto & Video Test' }
+        { key: 'photo', title: 'Foto & Video Test' },
+        { key: 'general', title: 'Algemeen Test' }
     ];
 
     let totalScore = 0;

@@ -1,6 +1,6 @@
 <h1>Tekst test</h1>
 
-<h2>Wat is er verkeerd?</h2>
+<h2>Vraag №1: Wat is er verkeerd?</h2>
 
 <h3>AI in scholen kunnen helpen in kennis</h3>
 
@@ -54,6 +54,8 @@
     </div>
 </div>
 
+<h2>Vraag №2:</h2>
+
 <h3>Paus waarschuwt alleen maar voor AI omdat hij bang is dat het zijn baan overneemt</h3>
 
 <p>
@@ -98,6 +100,8 @@
     </div>
 </div>
 
+<h2>Vraag №3:</h2>
+
 <h3>Automatische vertaling met AI wordt steeds populairder</h3>
 
 <p>
@@ -118,7 +122,9 @@
     vooral bij juridische documenten, medische informatie en andere teksten waarbij nauwkeurigheid essentieel is.
     Volgens onderzoekers zal AI het werk van vertalers waarschijnlijk veranderen, maar niet volledig vervangen.
 </p>
+
 <h2>Bots vervangen werknemers</h2>
+
 <div>
      <legend class="legend">Selecteer het juiste antwoord</legend>
     <div class="answers">
@@ -135,6 +141,8 @@
            <!--  true/false statement, answer = false  -->
 </div>
 
+<h2>Vraag №4:</h2>
+
 <h3>De Opkomst van AI en Deep Learning</h3>
 
 <h4>AI Neemt Binnenkort Alle Beslissingen Over</h4>
@@ -145,6 +153,7 @@
 </p>
 
 <h4>Deep Learning Begrijpt Het Menselijk Brein Volledig</h4>
+
 <p>
     Deep learning is geïnspireerd door neurale netwerken in het menselijk brein en heeft geleid tot grote vooruitgang op het gebied van spraakherkenning, beeldanalyse en taalverwerking.
     Ondanks deze successen is ons begrip van het menselijk brein nog verre van compleet, en functioneren deep-learningmodellen op een fundamenteel andere manier dan biologische hersenen.
@@ -152,6 +161,7 @@
 <p>
     In de praktijk zijn AI en deep learning krachtige hulpmiddelen die veel taken kunnen ondersteunen, maar de misleidende koppen hierboven overdrijven wat de technologie momenteel werkelijk kan.
 </p>
+
 <legend class="legend">Selecteer het juiste antwoord</legend>
 <div class="answers">
     <div class="radio-option">
@@ -176,7 +186,7 @@
 </div>
 
 <div class="bot_button">
-    <a href="index.php?page=score" onclick="finishTest('text', 4)">
+    <a href="index.php?page=score" onclick="finishTest(event, 'text', 4)">
         Test afronden
     </a>
 </div>

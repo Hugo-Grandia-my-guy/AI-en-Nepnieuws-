@@ -8,7 +8,6 @@
     </a>
 </div>
 
-
 <div class="score-card">
     <h2>Tekst Test</h2>
     <p id="text-score">0 / 0</p>
@@ -26,14 +25,16 @@
 </div>
 
 <div class="score-card">
-    <h2>Totaal</h2>
-    <p id="total-score">0 / 0</p>
-</div>
-
-<div class="bot_button">
-    <a href="index.php?page=general_test">
+    <h2>Algemene Toets</h2>
+    <p id="general-score">0 / 0</p>
+    <a class="score_but" href="index.php?page=general_test">
         Algemene toets
     </a>
+</div>
+
+<div class="score-card">
+    <h2>Totaal</h2>
+    <p id="total-score">0 / 0</p>
 </div>
 
 <script src="assets/script/score.js"></script>

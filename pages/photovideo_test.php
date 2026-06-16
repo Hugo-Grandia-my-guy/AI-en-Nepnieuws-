@@ -92,7 +92,7 @@
 
 
     <div class='bot_button'>
-        <a href="index.php?page=score" onclick="finishTest('photo', 6)">
+        <a href="index.php?page=score" onclick="finishTest(event, 'photo', 6)">
             Test afronden
         </a>
     </div>

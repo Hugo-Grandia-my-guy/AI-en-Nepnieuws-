@@ -1,18 +1,11 @@
-let score = 0;
-
 function finishTest(event, testName, maxScore) {
     if (event) event.preventDefault();
 
-    const correctAnswers = document.querySelectorAll('[data-correct="true"]');
-    score = 0;
+    const checkedCorrectAnswers = document.querySelectorAll('input[data-correct="true"]:checked');
 
-    correctAnswers.forEach(answer => {
-        if (answer.checked) {
-            score++;
-        }
-    });
+    let finalScore = checkedCorrectAnswers.length;
 
-    localStorage.setItem(`${testName}_score`, score);
+    localStorage.setItem(`${testName}_score`, finalScore);
     localStorage.setItem(`${testName}_max`, maxScore);
 
     window.location.href = 'index.php?page=score';
