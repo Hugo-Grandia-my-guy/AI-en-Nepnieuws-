@@ -117,7 +117,7 @@
 </div>
 
 <div class="bot_button">
-    <a href="index.php?page=score" onclick="finishTest('ai', 5)">
+    <a href="index.php?page=score" onclick="finishTest(event,'ai', 5)">
         Test afronden
     </a>
 </div>

@@ -78,23 +78,23 @@
 <legend class="legend">Selecteer het juiste antwoord</legend>
 <div class="answers">
     <div class="radio-option">
-        <input type="radio" name="Q2" id="Q1_A1">
-        <label for="Q1_A1">Misleidende koppen</label>
+        <input type="radio" name="Q2" id="Q2_A1">
+        <label for="Q2_A1">Misleidende koppen</label>
     </div>
 
     <div class="radio-option">
-        <input type="radio" name="Q2" id="Q1_A2">
-        <label for="Q1_A2">Automatische gegenereerde inhoud</label>
+        <input type="radio" name="Q2" id="Q2_A2">
+        <label for="Q2_A2">Automatische gegenereerde inhoud</label>
     </div>
 
     <div class="radio-option">
-        <input type="radio" name="Q2" id="Q1_A3">
-        <label for="Q1_A3">Misleidende titel</label>
+        <input type="radio" name="Q2" id="Q2_A3">
+        <label for="Q2_A3">Misleidende titel</label>
     </div>
 
     <div class="radio-option">
-        <input type="radio" name="Q2" id="Q1_A4" data-correct="true">
-        <label for="Q1_A4">Verkeerde feiten</label>
+        <input type="radio" name="Q2" id="Q2_A4" data-correct="true">
+        <label for="Q2_A4">Verkeerde feiten</label>
     </div>
 </div>
 
@@ -118,18 +118,18 @@
     vooral bij juridische documenten, medische informatie en andere teksten waarbij nauwkeurigheid essentieel is.
     Volgens onderzoekers zal AI het werk van vertalers waarschijnlijk veranderen, maar niet volledig vervangen.
 </p>
-<h2>bots vervangen werknemers</h2>
+<h2>Bots vervangen werknemers</h2>
 <div>
      <legend class="legend">Selecteer het juiste antwoord</legend>
     <div class="answers">
             <div class="radio-option">
-                <input type="radio" name="Q3" id="Q1_A1">
-                <label for="Q1_A1">True</label>
+                <input type="radio" name="Q3" id="Q3_A1">
+                <label for="Q3_A1">True</label>
             </div>
 
             <div class="radio-option">
-                <input type="radio" name="Q3" id="Q1_A2" data-correct="true">
-                <label for="Q1_A2">False</label>
+                <input type="radio" name="Q3" id="Q3_A2" data-correct="true">
+                <label for="Q3_A2">False</label>
             </div>
     </div>
            <!--  true/false statement, answer = false  -->
@@ -155,23 +155,23 @@
 <legend class="legend">Selecteer het juiste antwoord</legend>
 <div class="answers">
     <div class="radio-option">
-        <input type="radio" name="Q4" id="Q1_A1" data-correct="true">
-        <label for="Q1_A1">Misleidende koppen</label>
+        <input type="radio" name="Q4" id="Q4_A1" data-correct="true">
+        <label for="Q4_A1">Misleidende koppen</label>
     </div>
 
     <div class="radio-option">
-        <input type="radio" name="Q4" id="Q1_A2">
-        <label for="Q1_A2">Misleidende titel</label>
+        <input type="radio" name="Q4" id="Q4_A2">
+        <label for="Q4_A2">Misleidende titel</label>
     </div>
 
     <div class="radio-option">
-        <input type="radio" name="Q4" id="Q1_A3">
-        <label for="Q1_A3">Automatische vertaling</label>
+        <input type="radio" name="Q4" id="Q4_A3">
+        <label for="Q4_A3">Automatische vertaling</label>
     </div>
 
     <div class="radio-option">
-        <input type="radio" name="Q4" id="Q1_A4">
-        <label for="Q1_A4">Verkeerde feiten</label>
+        <input type="radio" name="Q4" id="Q4_A4">
+        <label for="Q4_A4">Verkeerde feiten</label>
     </div>
 </div>
 

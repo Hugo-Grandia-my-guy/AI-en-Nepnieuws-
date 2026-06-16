@@ -2,7 +2,7 @@
 <p>Kunstmatige intelligentie is tegenwoordig een krachtig instrument dat technologie, het bedrijfsleven en het dagelijks leven transformeert,
     maar het is ook een belangrijke bron van desinformatie.
     Neurale netwerken zijn in staat om binnen enkele seconden hoogwaardige nepvideo's, <a href="index.php?page=photo_and_video">nepfoto's en -audio (deepfakes)</a>
-    en <a href="index.php?page=tekst">nepteksten</a> te creëren, waardoor factchecking een complexe taak wordt.</p>
+    en <a href="index.php?page=text">nepteksten</a> te creëren, waardoor factchecking een complexe taak wordt.</p>
 <h3>De belangrijkste bedreigingen van AI op het gebied van informatietechnologie.</h3>
 <ul>
     <li><strong><a href="index.php?page=photo_and_video">Deepfakes:</a></strong> Het genereren van nepvideo's en -audio met echte mensen
