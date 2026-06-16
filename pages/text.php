@@ -1,6 +1,6 @@
 <h1>Tekst & misleidende inhoud</h1>
-<p>we gaan het hebben over de manier waarop <a href="index.php?page=ai">AI</a> kan worden gebruikt om misleidende tekst te genereren en te verspreiden als nepnieuws.</p>
-<h2>inhoud misleiding?</h2>
+<p>We gaan het hebben over de manier waarop <a href="index.php?page=ai">AI</a> kan worden gebruikt om misleidende tekst te genereren en te verspreiden als nepnieuws.</p>
+<h2>Inhoud misleiding?</h2>
 <p><a href="index.php?page=ai">AI</a> kan worden gebruikt om automatisch nepnieuwsartikelen, blogposts of social media
 <ul>
     <li><strong>Automatisch gegenereerde inhoud:</strong> <a href="index.php?page=ai">AI</a> kan worden gebruikt om automatisch nepnieuwsartikelen,
@@ -9,7 +9,7 @@
         zelfs als de inhoud van het artikel niet overeenkomt met de kop.</li>
     <li><strong>Automatische vertalingen:</strong> <a href="index.php?page=ai">AI</a> kan worden gebruikt om nepnieuws te vertalen naar verschillende talen,
         waardoor het bereik van desinformatie wordt vergroot en het moeilijker wordt om de oorsprong van het nepnieuws te traceren.</li>
-    <li><strong>verkeerde feiten:</strong> <a href="index.php?page=ai">AI</a> kan worden gebruikt om verkeerde feiten te genereren en te verspreiden,
+    <li><strong>Verkeerde feiten:</strong> <a href="index.php?page=ai">AI</a> kan worden gebruikt om verkeerde feiten te genereren en te verspreiden,
         wat leidt tot desinformatie en misleiding.</li>
 </ul>
 <p>Het is belangrijk om kritisch te blijven en informatie te verifiëren voordat je het gelooft of deelt, vooral in het tijdperk van <a href="index.php?page=ai">AI</a> en nepnieuws.

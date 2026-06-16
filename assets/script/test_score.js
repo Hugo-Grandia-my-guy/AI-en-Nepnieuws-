@@ -1,13 +1,13 @@
 let score = 0;
 
-function finishTest(testName, maxScore) {
+function finishTest(event, testName, maxScore) {
+    if (event) event.preventDefault();
 
     const correctAnswers = document.querySelectorAll('[data-correct="true"]');
-
     score = 0;
 
     correctAnswers.forEach(answer => {
-        if(answer.checked){
+        if (answer.checked) {
             score++;
         }
     });
