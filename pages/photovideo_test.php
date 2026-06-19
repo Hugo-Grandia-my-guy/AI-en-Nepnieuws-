@@ -41,7 +41,7 @@
                 </div>
             </div>
 
-   
+
 
         <h2>Vraag №4: Welk huis is echt?</h2>
     <p>Klik op de afbeelding die volgens jou **ECHT** is. Let goed op de details!</p>
