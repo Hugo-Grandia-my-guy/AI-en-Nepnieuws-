@@ -41,10 +41,10 @@
                 </div>
             </div>
 
-    <p>Klik op de afbeelding die volgens jou **ECHT** is. Let goed op de details!</p>
+   
 
         <h2>Vraag №4: Welk huis is echt?</h2>
-
+    <p>Klik op de afbeelding die volgens jou **ECHT** is. Let goed op de details!</p>
     <legend class="legend">Selecteer echte foto</legend>
     <div class="answers">
         <div class="radio-option">
