@@ -9,7 +9,7 @@
 <legend class="legend">Selecteer het juiste antwoord</legend>
 <div class="answers">
     <div class="radio-option">
-        <input type="radio" name="Q1" id="Q1_A1" data-correct="true">
+        <input type="radio" name="Q1" id="Q1_A1" data-correct="true"> <!--correct answer-->
         <label for="Q1_A1">generative AI</label>
     </div>
 
@@ -89,6 +89,7 @@
 <h1>Dit noemen ze modelhallucinaties:</h1>
 
     <img src="assets/img/phishing_voorbeeld.webp" alt="Modelhallucinaties">
+<!--  true/false statement, answer = false  -->
 <div>
      <legend class="legend">Selecteer het juiste antwoord</legend>
     <div class="answers">
@@ -102,7 +103,7 @@
                 <label for="Q4_A2">False</label>
             </div>
     </div>
-           <!--  true/false statement, answer = false  -->
+
 </div>
 
 <h2>Vraag №5</h2>

@@ -107,7 +107,7 @@
 <div class="answers">
     <div class="radio-option">
         <input type="radio" name="Q6" id="Q6_A1" data-correct="true">
-        <label for="Q6_A1">Informatie waarmee AI kan leren iermee en werken</label>
+        <label for="Q6_A1">Informatie waarmee AI kan leren hiermee en werken</label>
     </div>
     <div class="radio-option">
         <input type="radio" name="Q6" id="Q6_A2">

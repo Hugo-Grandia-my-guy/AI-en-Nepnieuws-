@@ -1,7 +1,7 @@
 <h1>Tekst & misleidende inhoud</h1>
 <p>We gaan het hebben over de manier waarop <a href="index.php?page=ai">AI</a> kan worden gebruikt om misleidende tekst te genereren en te verspreiden als nepnieuws.</p>
 <h2>Inhoud misleiding?</h2>
-<p><a href="index.php?page=ai">AI</a> kan worden gebruikt om automatisch nepnieuwsartikelen, blogposts of social media
+<p><a href="index.php?page=ai">AI</a> kan worden gebruikt om automatisch nepnieuws artikelen, blogposts of social media
 <ul>
     <li><strong>Automatisch gegenereerde inhoud:</strong> <a href="index.php?page=ai">AI</a> kan worden gebruikt om automatisch nepnieuwsartikelen,
         blogposts of social media-berichten te genereren. Deze inhoud kan er overtuigend uitzien en moeilijk te onderscheiden zijn van echte nieuwsberichten.</li>

@@ -134,11 +134,11 @@
             </div>
 
             <div class="radio-option">
-                <input type="radio" name="Q3" id="Q3_A2" data-correct="true">
+                <input type="radio" name="Q3" id="Q3_A2" data-correct="true"> <!--true-->
                 <label for="Q3_A2">False</label>
             </div>
     </div>
-           <!--  true/false statement, answer = false  -->
+           <!--  true/false statement, answer = True  -->
 </div>
 
 <h2>Vraag №4:</h2>
@@ -165,7 +165,7 @@
 <legend class="legend">Selecteer het juiste antwoord</legend>
 <div class="answers">
     <div class="radio-option">
-        <input type="radio" name="Q4" id="Q4_A1" data-correct="true">
+        <input type="radio" name="Q4" id="Q4_A1" data-correct="true"> <!--true-->
         <label for="Q4_A1">Misleidende koppen</label>
     </div>
 

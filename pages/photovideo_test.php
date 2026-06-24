@@ -31,7 +31,7 @@
             <legend class="legend">Selecteer het juiste antwoord</legend>
             <div class="answers">
                 <div class="radio-option">
-                    <input type="radio" name="Q3" id="Q3_A1" data-correct="true">
+                    <input type="radio" name="Q3" id="Q3_A1" data-correct="true">  <!--true-->
                     <label for="Q3_A1">True</label>
                 </div>
     
@@ -48,7 +48,7 @@
     <legend class="legend">Selecteer echte foto</legend>
     <div class="answers">
         <div class="radio-option">
-            <input type="radio" name="Q4" id="Q4_A1" data-correct="true">
+            <input type="radio" name="Q4" id="Q4_A1" data-correct="true">  <!--true-->
             <img src="assets/img/house_real_quiz.jpg" alt="Huis 1">
         </div>
 
@@ -64,7 +64,7 @@
     <legend class="legend">Selecteer echte foto</legend>
     <div class="answers">
         <div class="radio-option">
-            <input type="radio" name="Q5" id="Q5_A1" data-correct="true">
+            <input type="radio" name="Q5" id="Q5_A1" data-correct="true">  <!--true-->
             <img src="assets/img/cat_real_quiz.jpg" alt="Kat 1">
         </div>
 
@@ -85,7 +85,7 @@
         </div>
 
         <div class="radio-option">
-            <input type="radio" name="Q6" id="Q6_A2" data-correct="true">
+            <input type="radio" name="Q6" id="Q6_A2" data-correct="true">  <!--true-->
             <img src="assets/img/mens_real_quiz.jpg" alt="Gezicht 2">
         </div>
     </div>
