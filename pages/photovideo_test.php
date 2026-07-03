@@ -10,7 +10,7 @@
             </div>
 
             <div class="radio-option">
-                <input type="radio" name="Q1" id="Q1_A2" data-correct="true">
+                <input type="radio" name="Q1" id="Q1_A2" data-correct="true"> <!--true-->
                 <label for="Q1_A2">False</label>
             </div>
         </div>
